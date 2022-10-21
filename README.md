@@ -9,3 +9,7 @@ In file milestone_3.py, there are defined functions which relate to the 2 operat
 ## Classes and methods
 
 In file milestone_4.py, the 'Hangman' class is created. The two methods involved regards the checking of the player input and the asking for input from the player, along with responses. At the bottom of the class definition there is an example which can be run to trial with a test list of words.
+
+## Completed version of the Hangman game
+
+The finished version of the Hangman game can be found in file finished_game.py. The final version is based upon the code created in file called milestone.py, where the 'Hangman' class is defined which contains the initial state of the game, along with the appropriate methods corresponding with verifying guesses and aquiring inputs from the player. Furthermore, the function 'play_game' is an addition which defines the logic of the game dependent upon the outputs from the class and certain arguments. More ellaborate explanation which explains line-wise the code can be found in the file as notes after each line.
